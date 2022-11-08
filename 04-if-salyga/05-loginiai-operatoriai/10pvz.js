@@ -1,0 +1,5 @@
+if (true && false || true) {
+    console.log("suveike");
+} else {
+    console.log("nesuveike");
+}
